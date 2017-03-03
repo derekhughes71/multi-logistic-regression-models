@@ -1,6 +1,8 @@
 # multi-logistic-regression-models
 Comparing multiple elementary logistic regression models on arbitrary data
 
+SAS
+
 -Conduct EDA and variable selection methods to identify best models
 
 -Check model assumptions for model validity
